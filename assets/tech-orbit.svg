@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430">
+<defs>
+ <radialGradient id="c"><stop stop-color="#ff4db8"/><stop offset="1" stop-color="#00e5ff"/></radialGradient>
+ <filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="430" rx="24" fill="#0a0b16" stroke="#24264a" stroke-width="2"/>
+<g transform="translate(450 215)">
+ <circle r="62" fill="url(#c)" opacity=".85" filter="url(#g)"/>
+ <text y="8" text-anchor="middle" fill="white" font-family="monospace" font-size="25" font-weight="bold">AI/ML</text>
+ <g fill="none" stroke="#334155">
+   <ellipse rx="160" ry="75"/><ellipse rx="245" ry="115"/><ellipse rx="330" ry="160"/>
+ </g>
+ <g font-family="monospace" font-size="18" fill="#fff">
+  <g>
+   <circle cx="160" cy="0" r="8" fill="#00e5ff"><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="7s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="-310" y="-125">PYTHON</text><text x="205" y="-82">PYTORCH</text>
+  <text x="-310" y="145">TENSORFLOW</text><text x="220" y="145">HUGGING FACE</text>
+  <text x="-90" y="-185">SKLEARN</text><text x="-80" y="205">SQL</text>
+  <text x="-365" y="-10">GIT</text><text x="310" y="0">COLAB</text>
+ </g>
+ <circle r="160" fill="none" stroke="#00e5ff" stroke-width="2" stroke-dasharray="5 12">
+  <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="10s" repeatCount="indefinite"/>
+ </circle>
+</g>
+</svg>

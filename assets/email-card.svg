@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 130">
+<rect width="360" height="130" rx="18" fill="#0b0d18" stroke="#30334f" stroke-width="2"/>
+<text x="25" y="42" fill="#fff" font-family="Arial" font-weight="700" font-size="22">@  Email</text>
+<text x="25" y="72" fill="#94a3b8" font-family="monospace" font-size="14">replace with your email</text>
+<path d="M25 101h310" stroke="#00e5ff" stroke-width="2" stroke-dasharray="5 8"/>
+</svg>

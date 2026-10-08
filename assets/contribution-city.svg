@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390">
+<defs>
+ <linearGradient id="sky" y1="0" y2="1"><stop stop-color="#08091a"/><stop offset="1" stop-color="#17142b"/></linearGradient>
+ <linearGradient id="tower" y1="0" y2="1"><stop stop-color="#20234a"/><stop offset="1" stop-color="#0c0d1c"/></linearGradient>
+</defs>
+<rect width="1200" height="390" rx="22" fill="url(#sky)"/>
+<circle cx="990" cy="75" r="44" fill="#fff" opacity=".9"/>
+<g fill="#1b1d38">
+ <path d="M0 310V235h75v75M85 310V195h95v115M195 310V255h55v55M270 310V170h115v140M400 310V220h65v90M485 310V145h105v165M610 310V235h75v75M700 310V185h120v125M835 310V225h80v85M930 310V155h110v155M1055 310V215h145v95"/>
+</g>
+<g fill="url(#tower)">
+ <path d="M22 310V220h55v90M105 310V175h70v135M290 310V145h75v165M505 310V120h65v190M720 310V160h80v150M952 310V130h65v180M1070 310V190h95v120"/>
+</g>
+<g fill="#00e5ff">
+<rect x="32" y="235" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.2s" repeatCount="indefinite"/></rect><rect x="52" y="255" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.45s" repeatCount="indefinite"/></rect><rect x="120" y="195" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.75;1;0.75" dur="1.7s" repeatCount="indefinite"/></rect><rect x="145" y="225" width="6" height="9" rx="1"><animate attributeName="opacity" values="1.0;1;1.0" dur="1.95s" repeatCount="indefinite"/></rect><rect x="155" y="250" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.2s" repeatCount="indefinite"/></rect><rect x="305" y="170" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.2s" repeatCount="indefinite"/></rect><rect x="325" y="195" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.75;1;0.75" dur="1.45s" repeatCount="indefinite"/></rect><rect x="345" y="220" width="6" height="9" rx="1"><animate attributeName="opacity" values="1.0;1;1.0" dur="1.7s" repeatCount="indefinite"/></rect><rect x="520" y="145" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.95s" repeatCount="indefinite"/></rect><rect x="545" y="175" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.2s" repeatCount="indefinite"/></rect><rect x="555" y="210" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.75;1;0.75" dur="1.2s" repeatCount="indefinite"/></rect><rect x="735" y="185" width="6" height="9" rx="1"><animate attributeName="opacity" values="1.0;1;1.0" dur="1.45s" repeatCount="indefinite"/></rect><rect x="755" y="210" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.7s" repeatCount="indefinite"/></rect><rect x="775" y="240" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.95s" repeatCount="indefinite"/></rect><rect x="970" y="155" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.75;1;0.75" dur="2.2s" repeatCount="indefinite"/></rect><rect x="990" y="180" width="6" height="9" rx="1"><animate attributeName="opacity" values="1.0;1;1.0" dur="1.2s" repeatCount="indefinite"/></rect><rect x="1000" y="215" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.45s" repeatCount="indefinite"/></rect><rect x="1090" y="210" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.7s" repeatCount="indefinite"/></rect><rect x="1120" y="235" width="6" height="9" rx="1"><animate attributeName="opacity" values="0.75;1;0.75" dur="1.95s" repeatCount="indefinite"/></rect><rect x="1150" y="260" width="6" height="9" rx="1"><animate attributeName="opacity" values="1.0;1;1.0" dur="2.2s" repeatCount="indefinite"/></rect>
+</g>
+<g fill="#ff4db8" opacity=".8">
+ <rect x="0" y="312" width="1200" height="4"/>
+ <rect x="0" y="350" width="1200" height="2"/>
+</g>
+<text x="35" y="55" fill="#fff" font-family="monospace" font-size="20">CONTRIBUTION CITY // SHREYASH030</text>
+<text x="35" y="82" fill="#64748b" font-family="monospace" font-size="13">more commits → brighter skyline</text>
+<g fill="#cbd5e1" font-family="monospace" font-size="12">
+<text x="35" y="375">MON</text><text x="1100" y="375">SUN</text>
+</g>
+</svg>
